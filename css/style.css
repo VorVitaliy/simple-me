@@ -1,0 +1,62 @@
+body {
+    font-family: "Montserrat", Arial, sans-serif;
+}
+h1, h2, h3 {
+    font-size: 24px;
+}
+.menu {
+    padding: 15px 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    border: 0;
+    border-radius: 0;
+}
+.navbar-nav a:hover {
+    color: #1abc9c !important;
+}
+
+.block-1, .block-2, .footer {
+    color: white;
+}
+.block-1, .block-2 {
+    background-color: #1abc9c;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.block-1, .block-2, .block-3 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.block-1 img {
+    padding-top: 35px;
+    padding-bottom: 45px;
+}
+.block-2 p {
+    padding: 35px 30px 0 30px;
+}
+.block-2 p, .block-3 p {
+    font-size: 16px;
+    line-height: 1.8;
+}
+.block-2{
+    background-color: #474e5d;
+}
+.block-3 {
+    color: #555555;
+}
+.block-3 h3 {
+    padding-bottom: 71px;
+}
+.block-3 img {
+    margin-bottom: 45px;
+    width: 100%;
+}
+.footer {
+    background-color: #2f2f2f;
+    padding-top: 73px;
+    padding-bottom: 73px;
+}
+.footer p {
+    font-size: 16px;
+}
